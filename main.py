@@ -10,4 +10,5 @@ def main():
     tree = parser.program()
 
 if __name__ == '__main__':
+
     main()

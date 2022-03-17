@@ -1,20 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ANTLRGenerationPreferences">
-    <option name="perGrammarGenerationSettings">
-      <list>
-        <PerGrammarGenerationSettings>
-          <option name="fileName" value="$PROJECT_DIR$/miniPython.g4" />
-          <option name="autoGen" value="true" />
-          <option name="outputDir" value="C:\Users\harol\PycharmProjects\mini-Python" />
-          <option name="libDir" value="" />
-          <option name="encoding" value="" />
-          <option name="pkg" value="" />
-          <option name="language" value="Python3" />
-          <option name="generateListener" value="false" />
-        </PerGrammarGenerationSettings>
-      </list>
-    </option>
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (mini-Python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (mini-Python) (2)" project-jdk-type="Python SDK" />
 </project>
