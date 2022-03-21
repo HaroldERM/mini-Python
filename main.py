@@ -1,4 +1,4 @@
-from miniPythonLexer import *
+from miniPythonLexerLexer import *
 from miniPythonParser import *
 from antlr4 import *
 
@@ -10,7 +10,4 @@ def main():
     tree = parser.program()
 
 if __name__ == '__main__':
-
-
-    #GG
     main()
