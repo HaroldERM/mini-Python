@@ -9,10 +9,12 @@ def calcularFac(num):
     if num < 1:
         num_aux = 1
     else:
-        num_aux = num * (calcularFac(num - 1))
+        num_aux = num * (calcularFac(num-1))
     return num_aux
 
 ventas = [100,200,300,400,500]
+
+
 
 #promedio de elementos
 def promedio(cualquier_arreglo):
@@ -21,7 +23,7 @@ def promedio(cualquier_arreglo):
     #ciclo para recorrer arreglo
     cont = 0
     sumatoria = 0
-    while cont <= tam - 1:
+    while cont <= tam-1:
         sumatoria = sumatoria + cualquier_arreglo[cont]
         cont = cont + 1
     if tam > 0:
